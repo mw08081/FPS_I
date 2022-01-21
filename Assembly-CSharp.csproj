@@ -55,6 +55,8 @@
   <ItemGroup>
     <Compile Include="Assets\Resource\Player\cs\CameraInputController.cs" />
     <Compile Include="Assets\Resource\Player\cs\PlayerInputController.cs" />
+    <Compile Include="Assets\Resource\Player\cs\CamFollow.cs" />
+    <Compile Include="Assets\Resource\Player\cs\PlayerMove.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
