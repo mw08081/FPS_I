@@ -4,6 +4,8 @@ First FPS Game with 인생유니티교과서
 // 22.03.28.~
 
 MY Question  
+
+```c#
 //<summary>  
 //   
 //  #1. CodeA, Rigidbody, CapsuleCollider  
@@ -52,6 +54,6 @@ dir.y = yVelocity;
 //<summary/>  
 cc.Move(dir * moveSpeed * Time.deltaTime);                
 //<CodeB/>  
-
+```
   
   +++Link) https://github.com/mw08081/FPS_I/blob/main/Assets/Resource/Player/cs/PlayerInputController.cs
