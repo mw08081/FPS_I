@@ -53,10 +53,9 @@
     <UnityVersion>2020.3.16f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Resource\Player\cs\CameraInputController.cs" />
+    <Compile Include="Assets\Resource\Cam\cs\CameraInputController.cs" />
     <Compile Include="Assets\Resource\Player\cs\PlayerInputController.cs" />
-    <Compile Include="Assets\Resource\Player\cs\CamFollow.cs" />
-    <Compile Include="Assets\Resource\Player\cs\PlayerMove.cs" />
+    <Compile Include="Assets\Resource\Cam\cs\CamFollow.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
